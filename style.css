@@ -120,7 +120,7 @@ body::-webkit-scrollbar {
   
   .card {
     width: calc(90% * (0.2));
-    height: calc(90% * (0.));
+    height: calc(90% * (0.2));
     margin: 2rem 1rem;
     transition-duration: 0.5s;
   }
@@ -170,7 +170,7 @@ body::-webkit-scrollbar {
   .author a {
     color: ivory;
   }
-  
+
   .author > a:hover {
     color: rgba(0, 0, 0, 0.601);
   }
@@ -191,14 +191,14 @@ body::-webkit-scrollbar {
   
   @media only screen and (min-width: 600px) {
     .card {
-    height: 12rem;
+    height: 20rem;
       width: calc(100% * (1 / 4));
     }
   
     .card img {
       top: -45px;
       width: 18vw;
-      height: 10vw;
+      height: 18vw;
     }
   
     .art-title {
@@ -221,14 +221,14 @@ body::-webkit-scrollbar {
     }
   
     .card {
-    height: 16rem;
-    width: 25%;
+    height: 19rem;
+    width: 22%;
     }
   
     .card img {
       top: -65px;
-      width: 20vw;
-      height: 10vw;
+      width: 16vw;
+      height: 16vw;
     }
   
     .art-title {
@@ -243,7 +243,7 @@ body::-webkit-scrollbar {
 
   @media only screen and (min-width: 1080px) {
     .card {
-        height: 22rem;
-        width: 25%;
+        height: 26rem;
+        width: 20%;
         }
     }

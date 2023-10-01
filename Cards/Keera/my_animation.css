@@ -26,7 +26,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
-    font-size: 150px;
+    font-size: 80px;
     color: white;
     z-index: -1; 
     animation: Reveal 5s ease-in-out forwards, glitchGlow 3s infinite alternate; 
