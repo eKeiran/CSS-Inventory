@@ -1,0 +1,249 @@
+@font-face {
+    font-family: 'Sketch Gothic School'; 
+    src: url('/fonts/Sketch Gothic School.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Mirage Gothic'; 
+    src: url('/fonts/Mirage Gothic.ttf') format('truetype');
+  }
+  
+a {
+    text-decoration: none;
+}
+#head {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+}
+
+#banner {
+    width: 100%;
+    height: 350px;
+    background-image: url(./Images/);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: fixed;
+    background-size: contain;
+    background-color: #223;
+    color: #FFF;
+    overflow: hidden;
+    border: 8px rgb(255, 255, 255) double;
+    display: flex;
+    align-items: center ;
+    justify-content: center ;
+}
+
+#banner > h1 {
+    background-color: rgba(240, 248, 255, 0.671);
+    max-width: max-content;
+    max-height: min-content;
+    color:rgb(255, 0, 119);
+    font-family: 'Sketch Gothic School';
+    display: flexbox;
+    border: double rgb(255, 0, 119) 1rem;
+    font-size: 4rem;
+    align-items: center top;
+    font-weight: 550;
+    justify-content: center;
+}
+
+html {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    overflow-y:visible;
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+    width: 0.2em;
+    height: 0.3rem;
+    background-color: rgb(232, 183, 213);
+    outline: 0.2rem solid slategrey;
+  }
+
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: url("./Images/secretgarden.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 5rem;
+    color: rgb(255, 255, 255);
+    font-family: 'Mirage Gothic';
+    display: grid;
+    place-items: center;
+    flex-direction: column;
+    font-weight: 100;
+}
+
+
+/*--*/
+
+
+/* Flex Card Container */
+.flex {
+    display: flex;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    -ms-box-orient: horizontal;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    line-height: 0;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  
+  .flex li {
+    background: rgba(168, 99, 218, 0.749);
+    border-radius: 10px;
+    border: 1.5px solid #ff8be8a2;
+    margin-top: 20px;
+  }
+  
+  .flex li:hover {
+    -webkit-box-shadow: 10px 10px 36px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 36px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 36px 0px rgba(0, 0, 0, 0.75);
+  }
+  
+  .card {
+    width: calc(90% * (0.2));
+    height: calc(90% * (0.));
+    margin: 2rem 1rem;
+    transition-duration: 0.5s;
+  }
+
+  .card:hover {
+    transform: scale(1.02);
+    filter: brightness(105%);
+  }
+  
+  .art-image {
+    width: 20vw;
+    height: 20vw;
+    vertical-align: middle;
+    border-radius: 20px;
+    border: 0.3rem solid #ff70eca2;
+    padding: 0.2rem;
+    background: #948b7a;
+    object-fit: cover;
+    margin-top: 2.5vw; 
+  }
+  
+  .flex-content {
+    display: block;
+    margin-top: 1vw;
+  }
+  
+  .art-title {
+    font-size: 8vw;
+    line-height: 1vw;
+    color: rgb(255, 255, 255);
+    margin-top: -0.2vw;
+  }
+  
+  .art-title:hover {
+    color: rgb(0, 0, 0);
+  }
+  
+  .author {
+    font-size: 1.2em;
+    color: #0000006e;
+    text-transform: capitalize;
+    padding: 0;
+    line-height: 1rem;
+    margin-top: -1.2rem;
+    text-decoration: none;
+  }
+  .author a {
+    color: ivory;
+  }
+  
+  .author > a:hover {
+    color: rgba(0, 0, 0, 0.601);
+  }
+  
+  #footer {
+    padding: 35px 20px;
+    background-color: #343a40b0;
+    justify-content: center;
+    color: rgb(153, 153, 153);
+    font-size: 1.1rem;
+    font-family: 'Mirage Gothic', sans-serif;
+    border-top: 1px solid rgba(255, 255, 255, 0.89);
+  }
+  
+  /* ============================================= */
+  /*              Responsive Browsong              */
+  /* ============================================= */
+  
+  @media only screen and (min-width: 600px) {
+    .card {
+    height: 12rem;
+      width: calc(100% * (1 / 4));
+    }
+  
+    .card img {
+      top: -45px;
+      width: 18vw;
+      height: 10vw;
+    }
+  
+    .art-title {
+      font-size: 3vw;
+      padding-top: 12px;
+    }
+    .author{
+        margin-top: -1.3rem;
+    }
+    .author a {
+      font-size: 2vw;
+    
+    }
+  }
+  
+  @media only screen and (min-width: 900px) {
+  
+    h2 {
+      font-size: 3vw;
+    }
+  
+    .card {
+    height: 16rem;
+    width: 25%;
+    }
+  
+    .card img {
+      top: -65px;
+      width: 20vw;
+      height: 10vw;
+    }
+  
+    .art-title {
+      font-size: 2.3vw;
+      padding-top: 20px;
+    }
+    .author a {
+      font-size: 2vw;
+    }
+
+  }
+
+  @media only screen and (min-width: 1080px) {
+    .card {
+        height: 22rem;
+        width: 25%;
+        }
+    }
