@@ -16,7 +16,13 @@ let cards = [
         imageLink: "./Cards/Atharv/atharv.gif",
         author: "Atharv",
         githubLink: 'https://github.com/vyasylum'
-      }
+      },
+    {
+      artName: "Scrolling-text Animation",
+      pageLink: "./Cards/Abhay/my_animation.html",
+      author: "Abhay",
+      githubLink: 'https://github.com/abhaygzb15'
+    }
   ];
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
