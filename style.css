@@ -1,11 +1,15 @@
 @font-face {
-    font-family: 'Sketch Gothic School'; 
+    font-family: 'SketchGothicSchool'; 
     src: url('/fonts/Sketch Gothic School.ttf') format('truetype');
+    font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'Mirage Gothic'; 
-    src: url('/fonts/Mirage Gothic.ttf') format('truetype');
+    font-family: 'MirageGothic'; 
+    src: url('https://github.com/eKeiran/CSS-Inventory/tree/main/fonts/Mirage%20Gothic.ttf') format('truetype');
+    font-weight: normal;
+  font-style: normal;
   }
   
 a {
@@ -42,7 +46,7 @@ a {
     max-width: max-content;
     max-height: min-content;
     color:rgb(255, 0, 119);
-    font-family: 'Sketch Gothic School';
+    font-family: 'SketchGothicSchool';
     display: flexbox;
     border: double rgb(255, 0, 119) 1rem;
     font-size: 4rem;
@@ -76,7 +80,7 @@ body::-webkit-scrollbar {
     background-repeat: no-repeat;
     font-size: 5rem;
     color: rgb(255, 255, 255);
-    font-family: 'Mirage Gothic';
+    font-family: 'MirageGothic';
     display: grid;
     place-items: center;
     flex-direction: column;
