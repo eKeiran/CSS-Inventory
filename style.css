@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'SketchGothicSchool'; 
-    src: url('/fonts/SketchGothicSchool.ttf') format('truetype');
+    src: url('./fonts/SketchGothicSchool.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'MirageGothic'; 
-    src: url('/fonts/MirageGothic.ttf') format('truetype');
+    src: url('./fonts/MirageGothic.ttf') format('truetype');
   }
   
 a {
