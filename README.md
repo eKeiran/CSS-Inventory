@@ -5,6 +5,7 @@ Made for Hacktoberst at MIT-ADT but anyone is welcome to participate!!
 This is basically a display of CSS animations inspired by ZTM's Animation Challenge!
 
 ## RULES:
+0. Fork the repository, clone your copy as was demonstrated: https://github.com/firstcontributions/first-contributions and make further changes in your local cloned copy 
 1. Make a folder after yourself in the Cards directory
 2. Write your `my_animation.html` and `my_animation.css` files containing your animation and link them using `<style>`; no `<script>` allowed! Just pure CSS. You can be as imaginative as you want with your animation.
 3. Once done with the `.html` and `.css` files, screen record your animation and export it as a gif and save it inside your folder as `"your_name.gif"`. I'd recommend using OBS Studio to record then an online gif converter OR Microsoft ClipChamp - which can export a screen recorded video as a gif easily!  
@@ -17,9 +18,9 @@ This is basically a display of CSS animations inspired by ZTM's Animation Challe
   imageLink: "./Cards/your_name/your_gif_name.gif",
   author: "your_name",
   githubLink: 'https://github.com/your_username'
-}
+} ```
 
-All done!! Your changes should be reflected soon! PLEASE BE CAREFUL WHILE LINKING YOUR CREATION, USE YOUR OWN FOLDER.
+All done!! Commit and push your chnages! Once done, send a oull request for review. If you followed the steps correctly it'll be merged soon and your changes should be reflected on the main website! PLEASE BE CAREFUL WHILE LINKING YOUR CREATION, USE YOUR OWN FOLDER.
 NOTE: PLEASE REMEMBER YOU NEED TO ADD A GIF OF YOUR ANIMATION TO MAKE IT SHOW UP ON THE MAIN WEBSITE. THANKS!
 
 
