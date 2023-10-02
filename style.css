@@ -1,15 +1,11 @@
 @font-face {
     font-family: 'SketchGothicSchool'; 
-    src: url('/fonts/Sketch Gothic School.ttf') format('truetype');
-    font-weight: normal;
-  font-style: normal;
+    src: url('/fonts/SketchGothicSchool.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'MirageGothic'; 
-    src: url('https://github.com/eKeiran/CSS-Inventory/tree/main/fonts/Mirage%20Gothic.ttf') format('truetype');
-    font-weight: normal;
-  font-style: normal;
+    src: url('/fonts/MirageGothic.ttf') format('truetype');
   }
   
 a {
@@ -75,7 +71,7 @@ body::-webkit-scrollbar {
   body {
     margin: 0;
     padding: 0;
-    background: url("./Images/secretgarden.jpg");
+    background: url("./img/secretgarden.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 5rem;

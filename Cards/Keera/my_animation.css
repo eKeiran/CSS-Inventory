@@ -1,12 +1,14 @@
 @font-face {
-    font-family: 'Corrupted File'; 
-    src: url('/fonts/Corrupted File.ttf') format('truetype');
+    font-family: 'CorruptedFile'; 
+    src: url('/Cards/Keera/fonts/CorruptedFile.ttf') format('truetype');
+    font-weight: normal;
+    font-weight: normal;
 }
 
 body {
     margin: 0;
     overflow: hidden;
-    font-family: 'Corrupted File';
+    font-family: 'CorruptedFile';
     background-size: cover;
     color: orange;
     font-size: 150px;
