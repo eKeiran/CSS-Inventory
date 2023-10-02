@@ -6,7 +6,7 @@ This project was created for Hacktoberst at MIT-ADT, but anyone is welcome to pa
 ## RULES:
 0. Fork the repository, clone your copy as demonstrated [here](https://github.com/firstcontributions/first-contributions), and make further changes in your locally cloned copy.
 1. Create a folder named after yourself in the Cards directory.
-2. Write your `my_animation.html` and `my_animation.css` files containing your animation, and link them using `<style>`. No `<script>` is allowed, just pure CSS. You can be as imaginative as you want with your animation.
+2. Write your `my_animation.html` and `my_animation.css` files containing your animation, and link them using `<style>`. No `<script>` is allowed, just pure CSS. You can be as imaginative as you want with your animation. If you want to use images, videos, custom fonts etc in your .html and .css, make a folder for them in your directory to link them. 
 3. After completing the `.html` and `.css` files, screen record your animation, export it as a gif, and save it inside your folder as `"your_name.gif"`. I recommend using OBS Studio to record and an online gif converter or Microsoft ClipChamp, which can easily export a screen-recorded video as a gif.
 4. Great! You've made it halfway if you've done all this. Now, go to `index.js`, and in the cards array, add your element separated by a comma:
 
