@@ -18,40 +18,21 @@ let cards = [
         githubLink: 'https://github.com/vyasylum'
       },
     {
-      artName: "Scrolling-text Animation",
+      artName: "Scrolling Animation",
       pageLink: "./Cards/Abhay/my_animation.html",
       imageLink: "./Cards/Abhay/abhay.gif",
       author: "Abhay",
       githubLink: 'https://github.com/abhaygzb15'
     }
   ];
+  
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
 // +                      DO NOT NEED TO CHANGE ANYTHING BELOW THIS                 +
 // +                                                                                +
 // +--------------------------------------------------------------------------------+
 
-// Creates cards from the array above
 
-  // Add your card objects here
-  {
-    artName: "Hack-o-ween",
-    pageLink: "./Cards/Keera/my_animation.html",
-    imageLink: "./Cards/Keera/keera.gif",
-    author: "Harkeerat",
-    githubLink: 'https://github.com/ekeiran'
-  },
-  {
-    artName: "Sakura Magic",
-    pageLink: "./Cards/Atharv/my_animation.html",
-    imageLink: "./Cards/Atharv/atharv.gif",
-    author: "Atharv",
-    githubLink: 'https://github.com/vyasylum'
-  },
-];
-
-
-// Create cards from the array above
 cards.forEach((c) => {
   contents += `
     <li class="card">
