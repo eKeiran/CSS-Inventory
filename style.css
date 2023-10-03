@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Sketch Gothic School'; 
-    src: url('/fonts/Sketch Gothic School.ttf') format('truetype');
+    font-family: 'SketchGothicSchool'; 
+    src: url('./fonts/SketchGothicSchool.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Mirage Gothic'; 
-    src: url('/fonts/Mirage Gothic.ttf') format('truetype');
+    font-family: 'MirageGothic'; 
+    src: url('./fonts/MirageGothic.ttf') format('truetype');
   }
   
 a {
@@ -42,7 +42,7 @@ a {
     max-width: max-content;
     max-height: min-content;
     color:rgb(255, 0, 119);
-    font-family: 'Sketch Gothic School';
+    font-family: 'SketchGothicSchool';
     display: flexbox;
     border: double rgb(255, 0, 119) 1rem;
     font-size: 4rem;
@@ -71,12 +71,12 @@ body::-webkit-scrollbar {
   body {
     margin: 0;
     padding: 0;
-    background: url("./Images/secretgarden.jpg");
+    background: url("./img/secretgarden.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 5rem;
     color: rgb(255, 255, 255);
-    font-family: 'Mirage Gothic';
+    font-family: 'MirageGothic';
     display: grid;
     place-items: center;
     flex-direction: column;
