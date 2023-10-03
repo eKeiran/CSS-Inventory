@@ -20,6 +20,7 @@ let cards = [
     {
       artName: "Scrolling-text Animation",
       pageLink: "./Cards/Abhay/my_animation.html",
+      imageLink: "./Cards/Abhay/abhay.gif",
       author: "Abhay",
       githubLink: 'https://github.com/abhaygzb15'
     }
