@@ -22,8 +22,8 @@ a {
 
 #banner {
     width: 100%;
-    height: 350px;
-    background-image: url(./Images/);
+    height: 12vw;
+    background-image: url(./img/header.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: fixed;
@@ -41,10 +41,9 @@ a {
     background-color: rgba(240, 248, 255, 0.671);
     max-width: max-content;
     max-height: min-content;
-    color:rgb(255, 0, 119);
     font-family: 'SketchGothicSchool';
     display: flexbox;
-    border: double rgb(255, 0, 119) 1rem;
+    border: double #F0DEB4;
     font-size: 4rem;
     align-items: center top;
     font-weight: 550;
@@ -71,9 +70,8 @@ body::-webkit-scrollbar {
   body {
     margin: 0;
     padding: 0;
-    background: url("./img/secretgarden.jpg");
+    background: url("./img/wallpaper.png");
     background-size: cover;
-    background-repeat: no-repeat;
     font-size: 5rem;
     color: rgb(255, 255, 255);
     font-family: 'MirageGothic';
@@ -106,9 +104,9 @@ body::-webkit-scrollbar {
   }
   
   .flex li {
-    background: rgba(168, 99, 218, 0.749);
+    background:#ffef91b8;
     border-radius: 10px;
-    border: 1.5px solid #ff8be8a2;
+    border: 0.2rem solid #ffb300 ;
     margin-top: 20px;
   }
   
@@ -135,7 +133,7 @@ body::-webkit-scrollbar {
     height: 20vw;
     vertical-align: middle;
     border-radius: 20px;
-    border: 0.3rem solid #ff70eca2;
+    border: 0.2rem solid #ffb300;
     padding: 0.2rem;
     background: #948b7a;
     object-fit: cover;
