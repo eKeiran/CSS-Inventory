@@ -23,7 +23,15 @@ let cards = [
       imageLink: "./Cards/Abhay/abhay.gif",
       author: "Abhay",
       githubLink: 'https://github.com/abhaygzb15'
+    },
+    {
+      artName: "random",
+      pageLink: "./Cards/Amey/1.html",
+      imageLink: "./Cards/Abhay/amey.gif",
+      author: "Amey",
+      githubLink: 'https://github.com/amey'
     }
+
   ];
   
 // +--------------------------------------------------------------------------------+
