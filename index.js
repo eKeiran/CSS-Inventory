@@ -23,6 +23,13 @@ let cards = [
       imageLink: "./Cards/Abhay/abhay.gif",
       author: "Abhay",
       githubLink: 'https://github.com/abhaygzb15'
+    },
+    {
+      artName: "Beemer Drifting",
+      pageLink: "./Cards/Varunraj/my_animation.html",
+      imageLink: "./Cards/Varunraj/Varunraj.gif",
+      author: "Varunraj",
+      githubLink: 'https://github.com/FluKM'
     }
   ];
   
