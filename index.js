@@ -30,6 +30,15 @@ let cards = [
       imageLink: "./Cards/Varunraj/Varunraj.gif",
       author: "Varunraj",
       githubLink: 'https://github.com/FluKM'
+    },
+    {
+      
+        artName: "Perfect Cube Animation",
+        pageLink: "./Cards/Keya/my_animation.html",
+        imageLink: "./Cards/Keya/Keya.gif",
+        author: "Keya",
+        githubLink: 'https://github.com/keyakarkun'
+      
     }
   ];
   
