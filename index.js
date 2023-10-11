@@ -30,6 +30,13 @@ let cards = [
       imageLink: "./Cards/Varunraj/Varunraj.gif",
       author: "Varunraj",
       githubLink: 'https://github.com/FluKM'
+    },
+    {
+      artName: "Snowy Forest",
+      pageLink: "./Cards/Manav/my_animation.html",
+      imageLink: "./Cards/Manav/manav.gif",
+      author: "Manav Billimoria",
+      githubLink: 'https://github.com/manavbillimoria'
     }
   ];
   
