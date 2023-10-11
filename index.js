@@ -32,13 +32,20 @@ let cards = [
       githubLink: 'https://github.com/FluKM'
     },
     {
-      
+
         artName: "Perfect Cube Animation",
         pageLink: "./Cards/Keya/my_animation.html",
         imageLink: "./Cards/Keya/Keya.gif",
         author: "Keya",
         githubLink: 'https://github.com/keyakarkun'
-      
+    },
+  {
+      artName: "Snowy Forest",
+      pageLink: "./Cards/Manav/my_animation.html",
+      imageLink: "./Cards/Manav/manav.gif",
+      author: "Manav Billimoria",
+      githubLink: 'https://github.com/manavbillimoria'
+
     }
   ];
   
