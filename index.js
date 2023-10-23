@@ -55,6 +55,14 @@ let cards = [
       githubLink: 'https://github.com/vaibhavisapre'
 
     },
+    {
+      artName: "Matrix Effect",
+      pageLink: "./Cards/Aman/my_animation.html",
+      imageLink: "./Cards/Aman/matrix_effect.gif",
+      author: "Aman Nadeem",
+      githubLink: 'https://github.com/recdata'
+    }
+    
   ];
   
 // +--------------------------------------------------------------------------------+
