@@ -46,7 +46,15 @@ let cards = [
       author: "Manav Billimoria",
       githubLink: 'https://github.com/manavbillimoria'
 
-    }
+    },
+    {
+      artName: "Ani Circle",
+      pageLink: "./cards/Vaibhavi/animation.html",
+      imageLink: "./Cards/Vaibhavi/vaibhavi.gif",
+      author: "Vaibhavi Sapre",
+      githubLink: 'https://github.com/vaibhavisapre'
+
+    },
   ];
   
 // +--------------------------------------------------------------------------------+
