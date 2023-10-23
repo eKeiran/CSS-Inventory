@@ -48,14 +48,6 @@ let cards = [
 
     },
     {
-
-      artName: "Show time",
-      pageLink: "./Cards/vidhan/my_animation.html",
-      imageLink: "./Cards/vidhan/Vidhan.gif",
-      author: "Vidhan",
-      githubLink: 'https://github.com/Gigamail'
-    },
-  {
       artName: "Ani Circle",
       pageLink: "./cards/Vaibhavi/animation.html",
       imageLink: "./Cards/Vaibhavi/vaibhavi.gif",
@@ -63,7 +55,6 @@ let cards = [
       githubLink: 'https://github.com/vaibhavisapre'
 
     },
-
   ];
   
 // +--------------------------------------------------------------------------------+
