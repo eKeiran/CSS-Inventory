@@ -46,6 +46,13 @@ let cards = [
       author: "Manav Billimoria",
       githubLink: 'https://github.com/manavbillimoria'
 
+    },
+    {
+      artName: "CSGO",
+      pageLink: "./Cards/vidhan/my_animation.html",
+      imageLink: "./Cards/vidhan/Vidhan.gif",
+      author: "Vidhan",
+      githubLink: 'https://github.com/Gigamail'
     }
   ];
   

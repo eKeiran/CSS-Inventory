@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+    text-align: center;
+    font-size: 200px;
+    font-weight: 700;
+    background-image: url("f-bi-raid.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: red;
+}
