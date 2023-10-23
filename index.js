@@ -48,7 +48,7 @@ let cards = [
 
     },
     {
-      artName: "CSGO",
+      artName: "Show time",
       pageLink: "./Cards/vidhan/my_animation.html",
       imageLink: "./Cards/vidhan/Vidhan.gif",
       author: "Vidhan",
