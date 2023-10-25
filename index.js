@@ -55,6 +55,13 @@ let cards = [
       githubLink: 'https://github.com/vaibhavisapre'
 
     },
+    {
+      artName: "Air landing",
+      pageLink: "./cards/Vidhan/my_animation.html",
+      imageLink: "./Cards/Vidhan/Vidhan.gif",
+      author: "Vidhan Poddar",
+      githubLink: 'https://github.com/Gigamail'
+    }
   ];
   
 // +--------------------------------------------------------------------------------+
