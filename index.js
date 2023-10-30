@@ -61,6 +61,13 @@ let cards = [
       imageLink: "./Cards/Vidhan/Vidhan.gif",
       author: "Vidhan Poddar",
       githubLink: 'https://github.com/Gigamail'
+    },
+    {
+      artName: "Absolute Evil",
+      pageLink: "./Cards/Mahati/my_animation.html",
+      imageLink: "./Cards/Mahati/Mahati.gif",
+      author: "Mahati",
+      githubLink: 'https://github.com/Mahati-Kapuganty'
     }
   ];
   
