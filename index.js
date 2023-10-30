@@ -55,6 +55,14 @@ let cards = [
       githubLink: 'https://github.com/vaibhavisapre'
 
     },
+    {
+      artName: "merge the ball",
+      pageLink: "./cards/samay/samay.html",
+      imageLink: "./Cards/samay/samay.gif",
+      author: "Samay Khandelwal",
+      githubLink: 'https://github.com/samay03'
+
+    },
   ];
   
 // +--------------------------------------------------------------------------------+
