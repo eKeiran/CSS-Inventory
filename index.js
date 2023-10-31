@@ -56,15 +56,6 @@ let cards = [
 
     },
     {
-
-      artName: "merge the ball",
-      pageLink: "./cards/samay/samay.html",
-      imageLink: "./Cards/samay/samay.gif",
-      author: "Samay Khandelwal",
-      githubLink: 'https://github.com/samay03'
-
-    },
-
       artName: "Air landing",
       pageLink: "./cards/Vidhan/my_animation.html",
       imageLink: "./Cards/Vidhan/Vidhan.gif",
@@ -85,7 +76,6 @@ let cards = [
   author: "Urja",
   githubLink: 'https://github.com/urjabahad'
 }
-
   ];
   
 // +--------------------------------------------------------------------------------+
