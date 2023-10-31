@@ -56,6 +56,7 @@ let cards = [
 
     },
     {
+
       artName: "merge the ball",
       pageLink: "./cards/samay/samay.html",
       imageLink: "./Cards/samay/samay.gif",
@@ -63,6 +64,28 @@ let cards = [
       githubLink: 'https://github.com/samay03'
 
     },
+
+      artName: "Air landing",
+      pageLink: "./cards/Vidhan/my_animation.html",
+      imageLink: "./Cards/Vidhan/Vidhan.gif",
+      author: "Vidhan Poddar",
+      githubLink: 'https://github.com/Gigamail'
+    },
+    {
+      artName: "Absolute Evil",
+      pageLink: "./Cards/Mahati/my_animation.html",
+      imageLink: "./Cards/Mahati/Mahati.gif",
+      author: "Mahati",
+      githubLink: 'https://github.com/Mahati-Kapuganty'
+    },
+      {
+  artName: "Rotating Text",
+  pageLink: "./Cards/urjabahad/my_animation.html",
+  imageLink: "./Cards/urjabahad/urjabahad.gif",
+  author: "Urja",
+  githubLink: 'https://github.com/urjabahad'
+}
+
   ];
   
 // +--------------------------------------------------------------------------------+
