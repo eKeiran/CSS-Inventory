@@ -37,9 +37,9 @@ let cards = [
     imageLink: "./Cards/urjabahad/urjabahad.gif",
     author: "Urja",
     githubLink: 'https://github.com/urjabahad'
-  }
-    
-    {
+  },
+
+  {
 
     artName: "Perfect Cube Animation",
     pageLink: "./Cards/Keya/my_animation.html",
@@ -64,6 +64,13 @@ let cards = [
 
   },
   {
+    artName: "Matrix Effect",
+    pageLink: "./Cards/Aman/my_animation.html",
+    imageLink: "./Cards/Aman/matrix_effect.gif",
+    author: "Aman Nadeem",
+    githubLink: 'https://github.com/recdata'
+  },
+  {
     artName: "Beemer Drifting",
     pageLink: "./Cards/Varunraj/my_animation.html",
     imageLink: "./Cards/Varunraj/Varunraj.gif",
@@ -79,6 +86,8 @@ let cards = [
   },
 
 ];
+
+
 
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
