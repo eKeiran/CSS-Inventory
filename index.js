@@ -91,7 +91,13 @@ let cards = [
     author: "Vidhan Poddar",
     githubLink: 'https://github.com/Gigamail'
   },
-
+  {
+    artName: "BatMobile",
+    pageLink: "./Cards/Sudarshan/my_animation.html",
+    imageLink: "./Cards/Sudarshan/mov.gif",
+    author: "Sudarshan",
+    githubLink: 'https://github.com/Sudarshan2910'
+  },
 ];
 
 
