@@ -69,6 +69,13 @@ let cards = [
       author: "Mahati",
       githubLink: 'https://github.com/Mahati-Kapuganty'
     }
+      {
+  artName: "Rotating Text",
+  pageLink: "./Cards/urjabahad/my_animation.html",
+  imageLink: "./Cards/urjabahad/urjabahad.gif",
+  author: "Urja",
+  githubLink: 'https://github.com/urjabahad'
+}
   ];
   
 // +--------------------------------------------------------------------------------+
