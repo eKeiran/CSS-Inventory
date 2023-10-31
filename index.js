@@ -1,83 +1,85 @@
 let contents = '';
 let cards = [
 
-      //  Add your card in this section
-    {
-      artName: "Hack-o-ween",
-      pageLink: "./Cards/Keera/my_animation.html",
-      imageLink: "./Cards/Keera/keera.gif",
-      author: "Harkeerat",
-      githubLink: 'https://github.com/ekeiran'
-    },
-       
-       {
-        artName: "Sakura Magic",
-        pageLink: "./Cards/Atharv/my_animation.html",
-        imageLink: "./Cards/Atharv/atharv.gif",
-        author: "Atharv",
-        githubLink: 'https://github.com/vyasylum'
-      },
-    {
-      artName: "Scrolling Animation",
-      pageLink: "./Cards/Abhay/my_animation.html",
-      imageLink: "./Cards/Abhay/abhay.gif",
-      author: "Abhay",
-      githubLink: 'https://github.com/abhaygzb15'
-    },
-    {
-      artName: "Beemer Drifting",
-      pageLink: "./Cards/Varunraj/my_animation.html",
-      imageLink: "./Cards/Varunraj/Varunraj.gif",
-      author: "Varunraj",
-      githubLink: 'https://github.com/FluKM'
-    },
-    {
-
-        artName: "Perfect Cube Animation",
-        pageLink: "./Cards/Keya/my_animation.html",
-        imageLink: "./Cards/Keya/Keya.gif",
-        author: "Keya",
-        githubLink: 'https://github.com/keyakarkun'
-    },
+  //  Add your card in this section
   {
-      artName: "Snowy Forest",
-      pageLink: "./Cards/Manav/my_animation.html",
-      imageLink: "./Cards/Manav/manav.gif",
-      author: "Manav Billimoria",
-      githubLink: 'https://github.com/manavbillimoria'
+    artName: "Hack-o-ween",
+    pageLink: "./Cards/Keera/my_animation.html",
+    imageLink: "./Cards/Keera/keera.gif",
+    author: "Harkeerat",
+    githubLink: 'https://github.com/ekeiran'
+  },
 
-    },
+  {
+    artName: "Sakura Magic",
+    pageLink: "./Cards/Atharv/my_animation.html",
+    imageLink: "./Cards/Atharv/atharv.gif",
+    author: "Atharv",
+    githubLink: 'https://github.com/vyasylum'
+  },
+  {
+    artName: "Scrolling Animation",
+    pageLink: "./Cards/Abhay/my_animation.html",
+    imageLink: "./Cards/Abhay/abhay.gif",
+    author: "Abhay",
+    githubLink: 'https://github.com/abhaygzb15'
+  },
+  {
+    artName: "Absolute Evil",
+    pageLink: "./Cards/Mahati/my_animation.html",
+    imageLink: "./Cards/Mahati/Mahati.gif",
+    author: "Mahati",
+    githubLink: 'https://github.com/Mahati-Kapuganty'
+  },
+  {
+    artName: "Rotating Text",
+    pageLink: "./Cards/urjabahad/my_animation.html",
+    imageLink: "./Cards/urjabahad/urjabahad.gif",
+    author: "Urja",
+    githubLink: 'https://github.com/urjabahad'
+  }
+    
     {
-      artName: "Ani Circle",
-      pageLink: "./cards/Vaibhavi/animation.html",
-      imageLink: "./Cards/Vaibhavi/vaibhavi.gif",
-      author: "Vaibhavi Sapre",
-      githubLink: 'https://github.com/vaibhavisapre'
 
-    },
-    {
-      artName: "Air landing",
-      pageLink: "./cards/Vidhan/my_animation.html",
-      imageLink: "./Cards/Vidhan/Vidhan.gif",
-      author: "Vidhan Poddar",
-      githubLink: 'https://github.com/Gigamail'
-    },
-    {
-      artName: "Absolute Evil",
-      pageLink: "./Cards/Mahati/my_animation.html",
-      imageLink: "./Cards/Mahati/Mahati.gif",
-      author: "Mahati",
-      githubLink: 'https://github.com/Mahati-Kapuganty'
-    },
-      {
-  artName: "Rotating Text",
-  pageLink: "./Cards/urjabahad/my_animation.html",
-  imageLink: "./Cards/urjabahad/urjabahad.gif",
-  author: "Urja",
-  githubLink: 'https://github.com/urjabahad'
-}
-  ];
-  
+    artName: "Perfect Cube Animation",
+    pageLink: "./Cards/Keya/my_animation.html",
+    imageLink: "./Cards/Keya/Keya.gif",
+    author: "Keya",
+    githubLink: 'https://github.com/keyakarkun'
+  },
+  {
+    artName: "Snowy Forest",
+    pageLink: "./Cards/Manav/my_animation.html",
+    imageLink: "./Cards/Manav/manav.gif",
+    author: "Manav Billimoria",
+    githubLink: 'https://github.com/manavbillimoria'
+
+  },
+  {
+    artName: "Ani Circle",
+    pageLink: "./cards/Vaibhavi/animation.html",
+    imageLink: "./Cards/Vaibhavi/vaibhavi.gif",
+    author: "Vaibhavi Sapre",
+    githubLink: 'https://github.com/vaibhavisapre'
+
+  },
+  {
+    artName: "Beemer Drifting",
+    pageLink: "./Cards/Varunraj/my_animation.html",
+    imageLink: "./Cards/Varunraj/Varunraj.gif",
+    author: "Varunraj",
+    githubLink: 'https://github.com/FluKM'
+  },
+  {
+    artName: "Air landing",
+    pageLink: "./cards/Vidhan/my_animation.html",
+    imageLink: "./Cards/Vidhan/Vidhan.gif",
+    author: "Vidhan Poddar",
+    githubLink: 'https://github.com/Gigamail'
+  },
+
+];
+
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
 // +                      DO NOT NEED TO CHANGE ANYTHING BELOW THIS                 +
