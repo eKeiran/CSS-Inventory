@@ -17,6 +17,7 @@ let cards = [
     author: "Atharv",
     githubLink: 'https://github.com/vyasylum'
   },
+  
   {
     artName: "Scrolling Animation",
     pageLink: "./Cards/Abhay/my_animation.html",
@@ -24,6 +25,7 @@ let cards = [
     author: "Abhay",
     githubLink: 'https://github.com/abhaygzb15'
   },
+  
   {
     artName: "Absolute Evil",
     pageLink: "./Cards/Mahati/my_animation.html",
@@ -31,6 +33,7 @@ let cards = [
     author: "Mahati",
     githubLink: 'https://github.com/Mahati-Kapuganty'
   },
+  
   {
     artName: "Rotating Text",
     pageLink: "./Cards/urjabahad/my_animation.html",
@@ -38,15 +41,15 @@ let cards = [
     author: "Urja",
     githubLink: 'https://github.com/urjabahad'
   },
-
+  
   {
-
     artName: "Perfect Cube Animation",
     pageLink: "./Cards/Keya/my_animation.html",
     imageLink: "./Cards/Keya/Keya.gif",
     author: "Keya",
     githubLink: 'https://github.com/keyakarkun'
   },
+  
   {
     artName: "Snowy Forest",
     pageLink: "./Cards/Manav/my_animation.html",
@@ -55,6 +58,7 @@ let cards = [
     githubLink: 'https://github.com/manavbillimoria'
 
   },
+  
   {
     artName: "Ani Circle",
     pageLink: "./cards/Vaibhavi/animation.html",
@@ -63,6 +67,7 @@ let cards = [
     githubLink: 'https://github.com/vaibhavisapre'
 
   },
+  
   {
     artName: "Matrix Effect",
     pageLink: "./Cards/Aman/my_animation.html",
@@ -70,6 +75,7 @@ let cards = [
     author: "Aman Nadeem",
     githubLink: 'https://github.com/recdata'
   },
+  
   {
     artName: "Beemer Drifting",
     pageLink: "./Cards/Varunraj/my_animation.html",
@@ -77,6 +83,7 @@ let cards = [
     author: "Varunraj",
     githubLink: 'https://github.com/FluKM'
   },
+  
   {
     artName: "Air landing",
     pageLink: "./cards/Vidhan/my_animation.html",
