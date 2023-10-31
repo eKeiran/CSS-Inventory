@@ -43,7 +43,7 @@ let cards = [
   },
   
   {
-    artName: "Perfect Cube Animation",
+    artName: "Perfect Cube",
     pageLink: "./Cards/Keya/my_animation.html",
     imageLink: "./Cards/Keya/Keya.gif",
     author: "Keya",
